@@ -1,4 +1,7 @@
 # SYNOPSIS
+
+[![GuardRails badge](https://badges.production.guardrails.io/moul/prohub.svg)](https://www.guardrails.io)
+
 A Project perspecive for Github.
 
 # STATUS
